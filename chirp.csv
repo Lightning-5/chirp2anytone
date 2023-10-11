@@ -1,0 +1,11 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+1,V40 CALL,145.500000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,,,,,
+2,U280 CAL,433.500000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,,,,,
+3,Graz,433.762500,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,,,,,
+4,BierGraz,144.550000,,0.000000,TSQL,67.0,67.0,023,NN,023,Tone->Tone,FM,5.00,,1.0W,,,,,
+5,Ccamp 70,433.625000,,0.000000,TSQL,123.0,123.0,023,NN,023,Tone->Tone,FM,5.00,,5.0W,,,,,
+6,Ccamp 2m,145.375000,,0.000000,Tone,123.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,,,,,
+7,Lychen70,439.325000,-,7.600000,Tone,151.4,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,,,,,
+8,Lychen2m,145.587500,-,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,,,,,
+9,Tata,145.675000,-,0.600000,Tone,107.2,88.5,023,NN,023,Tone->Tone,FM,5.00,S,5.0W,,,,,
+10,UHF APRS,432.500000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,S,5.0W,,,,,
